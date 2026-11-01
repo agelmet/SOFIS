@@ -3,8 +3,8 @@
  "short_name": "Ενδοδοντία Φ",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#F5F2EC",
- "theme_color": "#F5F2EC",
+ "background_color": "#F6F8FB",
+ "theme_color": "#F6F8FB",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
