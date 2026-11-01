@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/flisvos-endodontics-icon.svg"
+ },
+ "source_md5": "a4c2eee3566bda5a44d5c62c694e61a0",
+ "version": "3b431d8d",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "20e48a9b8b5cb098870d3bf352ed7265"
+ ],
+ "made": "2026-11-01"
+}
